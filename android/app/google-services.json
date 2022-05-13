@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "446341437711",
+    "firebase_url": "https://uber-ola-and-indriver-cl-a80bc-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-and-indriver-cl-a80bc",
+    "storage_bucket": "uber-ola-and-indriver-cl-a80bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446341437711:android:612bc72b656e1b4f3e067a",
+        "android_client_info": {
+          "package_name": "com.halyniada.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446341437711-odmdfua8gu1kulho23mbv2in6uhgol8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgz8fIOQCfBf61Q0jRws-cEFNEye29q9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446341437711-odmdfua8gu1kulho23mbv2in6uhgol8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446341437711-m1gvi61gg70sm9hgff20ds2bda1skvb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halyniada.driverApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446341437711:android:d90f109310f428283e067a",
+        "android_client_info": {
+          "package_name": "com.halyniada.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446341437711-odmdfua8gu1kulho23mbv2in6uhgol8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgz8fIOQCfBf61Q0jRws-cEFNEye29q9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446341437711-odmdfua8gu1kulho23mbv2in6uhgol8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446341437711-m1gvi61gg70sm9hgff20ds2bda1skvb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halyniada.driverApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
